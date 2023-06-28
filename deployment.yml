@@ -14,7 +14,9 @@ jobs:
      - name: test models
        command: dbt test # This example will run all your tests.
  - name: debug
-   schedule: 30 7 * * 1-5 # The example will run every weekday at 7:30am.
+   schedule: 0 0 * * *
    steps:
      - name: run models<debug>
        command: dbt debug
+     - name: test models
+       command: dbt test
