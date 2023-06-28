@@ -32,6 +32,4 @@ clean-targets:         # directories to be removed by `dbt clean`
 # using the `{{ config(...) }}` macro.
 models:
   google_drive:
-    # Applies to all files under models/example/
-    fivetrandbt:
-      materialized: view
+    +materialized: view
