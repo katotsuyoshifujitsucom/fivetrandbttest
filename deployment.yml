@@ -16,7 +16,7 @@ jobs:
  - name: debug
    schedule: 0 0 * * *
    steps:
-     - name: run models<debug>
+     - name: run debug
        command: dbt debug
      - name: test models
        command: dbt test
