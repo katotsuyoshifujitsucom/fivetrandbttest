@@ -16,7 +16,11 @@ jobs:
  - name: debug
    schedule: 0 0 * * *
    steps:
-     - name: run debug
-       command: dbt debug
+     - name: run clean
+       command: dbt clean
+     - name: run compile
+       command: dbt compile
      - name: run list
        command: dbt list
+     - name: run debug
+       command: dbt debug
