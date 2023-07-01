@@ -1,4 +1,4 @@
 select
 	*
 from
-	google_drive.ken_all_rome_fix
+	`psychic-karma-391001`.`google_drive_1`.`ken_all_rome_fix`
