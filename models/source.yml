@@ -1,6 +1,9 @@
 version: 2
 
 sources:
-  - name: google_drive
+  - name: google_drive_1
     tables:
       - name: ken_all_rome_fix
+  - name: google_drive_2
+    tables:
+      - name: fix_format_test
