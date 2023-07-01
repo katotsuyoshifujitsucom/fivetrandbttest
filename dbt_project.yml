@@ -33,5 +33,5 @@ clean-targets:         # directories to be removed by `dbt clean`
 # using the `{{ config(...) }}` macro.
 models:
   fivetrandbt: # これはプロジェクト名と同じになる
-    google_drive: # google_drive/* に適用
+    fivetrandev: # google_drive/* に適用
       +materialized: view
