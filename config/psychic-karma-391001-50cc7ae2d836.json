@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "psychic-karma-391001",
+  "private_key_id": "50cc7ae2d836c84f5c91844a9f4fcf30f2c09c1e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDKmu6LkS3fdWTQ\nvoMUW5tUIQhHohyqQmLvi3r1NF80/BIzaY0D3mX/ol1H8xJVZ7PzdAHgVTRo37SP\nByUuilvlr/PlS3xZb1ladpHTzC5Q4Xb+G7/W1De3k1A8bI5nzJM60JQi5kmmIDFd\neJZS9kQ6BaiC52jNQUuhj3lY8X/Vu4ouRIThx3FbkLPmlP2YyBxt8tjxaxcfH0jj\nrJu425BVCHZ+UMkzQ/U45Xzg3WzyNNdO0GU3L4mTV9hZT1SaVbXnSa+OQ8sdWNSJ\nGzZlwoDDASJdHCeCgzuc6ORMObb9FWpRrZ7b4N6AgkmXa23m+Lv5TSjLCUzY/+xu\n2u7RoMWfAgMBAAECggEAFd/JAMaJi7EH/nA4hLp94wUMo3dBiFxR2YesnHatZMdm\nS6i0sds8Fe/OCcDuP3b1JcQQ7nXPNRdvThXjvMpGsQi12LwKo+PyuLfzzJ3PI6pZ\nXNwFcp3yRLP3Rgl5DS84Ihx3h0ESaIjcljk5DvdJrHNZ8IV9eij3j8IxbsSRcbN0\nGg1m9RcwTQllZRrIjXl0/GX7SJUFZr/6bJe++DpT634IkhHz4ZJ2ZRCxvcUVvaUM\nq5h5BOITN3zvspCIkHsagx5+rTY2fekAb9uRioZ0lTMQdfcjoLi42nWZOeM/CN7l\n2Bdj9XB60Y5lTN6EN53ylbiN+xoVOVJOmXPbRdpM+QKBgQD2z7WRh0p5zwCZDo8n\ntEwCGhG6r9bNl2Zjm60Ik/M+eJA7ZlQ7pWfuhdTwUuzhjeq7kzN9uymXlRUgRZ9/\ntgiBkyknM1z7R/8KklSA8iowpAM8bE19LLmbU2Nf+0SEmJl1GWAnnn41B2mXHGHY\nSoU1KDWDorCOOiT+Y+I7xR1BGwKBgQDSJefn16SIu4xKUYWf80tTwEbeaeWxjpIa\noGelL+ItAxNk2qdsIO6i2MX9BbcC57ppqoS/7S4KosFIgLOvqWZi3Ewsa14fBxfI\njtqhNhapsSMOPpXaU8wNs7f2sFYRBJjBdVSRP18bZDyeDaJ9z8wZ0UGTrtCJuOjy\nUiI+jwgZzQKBgC+xQ2yzr/iJv5vT7GXHuUhOsU5Z3DAuKWLmGjGmJULVGUnhJDXC\naKr2wYcO/yc2vT0x3KlXGVppPIPX8FJFYq9nOHSSwEzuRKJOVHX2VaDAkL+EThT6\nJ4OUQYeyjjLxKfYuyR3eypSEsiq5GU8qV0NGWdDuBx/0rGFb+8OA+34xAoGBAM3e\n2qhyxjo5WX95C6odw17Bz+uV3LKsVA+HsuHN3gpwp/A2kKvKO14HdTaiAZ7z+tgH\nd9M5/M/oj+eCRgXBs48H+AvQBz3oSfFtmVszTNJiuU/8Gfvv+cg2lvMx3q7/TNLB\nKd69MWP5N7Uy8EvGZVGpgU+3g45YOsUhl3Cn2KzFAoGAP4KDwY75XpOpSaHW/NCF\nO/fbT8PXiiHM5qH4jUPskZjxMtHDDkiyHLyD0EhHnVbRG/SqDGuDcBV6x8uce7ZF\notN3M6YvtTWLtnBtMISyBMYGmj276R9wLBczErNaJfQeW59hhelltbfvjrRI4bLZ\nRcbHH3sKz2vENmssi5ZTmRs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "fivetran-user@psychic-karma-391001.iam.gserviceaccount.com",
+  "client_id": "105519092351119584005",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/fivetran-user%40psychic-karma-391001.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
